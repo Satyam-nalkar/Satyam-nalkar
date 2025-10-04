@@ -8,7 +8,7 @@
 - 🌐 Web Development  
 
 📌 Projects:  
-- 🍲 [Home Chef Hub](homechef-hub.vercel.app)  
+- 🍲 [Home Chef Hub](https://homechef-hub.vercel.app)  
 - 🔢 Matrix Operations in C++  
 
 🔥 Fun Fact:  
