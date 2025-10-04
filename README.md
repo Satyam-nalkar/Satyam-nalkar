@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Satyam Nalkar  
 
-<!--
-**Satyam-nalkar/Satyam-nalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Coding Enthusiast | Python | C++ | Web Dev**  
 
-Here are some ideas to get you started:
+🚀 Skills:  
+- 🐍 Python  
+- ⚡ C++  
+- 🌐 Web Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects:  
+- 🍲 [Home Chef Hub](https://github.com/Satyam-nalkar/Home-Chef-Hub)  
+- 🔢 Matrix Operations in C++  
+
+🔥 Fun Fact:  
+> "Code, Coffee ☕ and Creativity 🎨 is all I need!"  
+
+---
+
+### 🌟 GitHub Stats:
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyam-nalkar&show_icons=true&theme=radical)  
+
+### 🏆 GitHub Trophies:
+![trophy](https://github-profile-trophy.vercel.app/?username=Satyam-nalkar&theme=onedark)  
+
