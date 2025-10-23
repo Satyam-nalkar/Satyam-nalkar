@@ -9,7 +9,7 @@
 
 📌 Projects:  
 - 🍲 [Home Chef Hub](https://homechef-hub.vercel.app)  
-- 🔢 Matrix Operations in C++  
+- 🔢 [Matrix Operations in C++] (https://github.com/Satyam-nalkar/Numerical_Computing) 
 
 🔥 Fun Fact:  
 > "Code, Coffee ☕ and Creativity 🎨 is all I need!"  
