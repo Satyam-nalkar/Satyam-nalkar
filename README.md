@@ -9,7 +9,8 @@
 
 📌 Projects:  
 - 🍲 [Home Chef Hub](https://homechef-hub.vercel.app)  
-- 🔢 [Matrix Operations in C++](https://github.com/Satyam-nalkar/Numerical_Computing) 
+- 🔢 [Matrix Operations in C++](https://github.com/Satyam-nalkar/Numerical_Computing)
+- 🌐 [Network Simulation Project](https://github.com/Satyam-nalkar/Network-Concepts---Network-simulation-project)
 
 🔥 Fun Fact:  
 > "Code, Coffee ☕ and Creativity 🎨 is all I need!"  
