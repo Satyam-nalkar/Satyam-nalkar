@@ -20,7 +20,3 @@
 
 ### 🌟 GitHub Stats:
 ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyam-nalkar&show_icons=true&theme=radical)  
-
-### 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=Satyam-nalkar&theme=onedark)  
-
