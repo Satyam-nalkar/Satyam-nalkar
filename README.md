@@ -20,3 +20,5 @@
 
 ### 🌟 GitHub Stats:
 ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyam-nalkar&show_icons=true&theme=radical)  
+
+[](https://pin.it/1LSS8JvQS)
