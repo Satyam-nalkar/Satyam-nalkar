@@ -3,7 +3,7 @@
 💻 **Coding Enthusiast | Web Dev** | C,C++ | Python   
 
 🚀 Skills:  
-- 🌐 Web Development(Javascript,ReactJs,TailwindCSS)
+- 🌐 Web Development (Javascript, ReactJs, TailwindCSS)
 - ⚡ C++  
 - 🐍 Python  
 
