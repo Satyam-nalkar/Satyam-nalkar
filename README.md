@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Satyam Nalkar  
 
-💻 **Coding Enthusiast | Python | C++ | Web Dev**  
+💻 **Coding Enthusiast | Web Dev** | C,C++ | Python   
 
 🚀 Skills:  
-- 🐍 Python  
+- 🌐 Web Development(Javascript,ReactJs,TailwindCSS)
 - ⚡ C++  
-- 🌐 Web Development  
+- 🐍 Python  
 
 📌 Projects:  
 - 🍲 [Home Chef Hub](https://homechef-hub.vercel.app)  
